@@ -63,5 +63,3 @@ class OrderAdditionalCostsDecorator extends AbstractOrderAdditionalCostsService 
 </container>
 
 ```
-
-You can get the boilerplate plugin for the quickstart here.
