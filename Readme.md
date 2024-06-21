@@ -1,0 +1,1 @@
+# Simple boilerplate for overwriting Mondu plugin services
